@@ -11,4 +11,4 @@
  - 书评（BookReview）：cB
 
 **文件夹（书名）命名以用大驼峰式书写格式：日期-名称。**
- - 如：20170113-SeekingWisdom.md
+ - 如：20170113-SeekingWisdom
