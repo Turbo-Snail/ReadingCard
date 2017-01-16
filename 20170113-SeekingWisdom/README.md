@@ -9,6 +9,7 @@
 ### 术语卡
 - [盲眼钟表匠](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cT-theBlindWatchmaker.md)
 - [安慰剂效应](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cT-placeboEffect.md)
+
 ---
 ### 反常识卡
 - [逆向思维](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cN-reverseThinking.md)
