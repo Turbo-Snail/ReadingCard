@@ -1,5 +1,6 @@
 ### 人名卡
  - [理查德·道金斯](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cP-richardDawkins.md)
+ - [杰拉尔德·埃德尔曼](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cP-geraldEdelman.md)
 
 ---
 ### 金句卡
