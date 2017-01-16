@@ -15,3 +15,7 @@
 ### 反常识卡
 - [逆向思维](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cN-reverseThinking.md)
 - [生活经历影响大脑](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cN-affectTheBrain.md)
+
+---
+### 任意卡
+- [第一章第一节](https://github.com/weihaisheng/ReadingCard/blob/master/20170113-SeekingWisdom/cO-chapter-1-1.md)
