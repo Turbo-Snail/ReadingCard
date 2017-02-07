@@ -12,3 +12,5 @@
 
 **文件夹（书名）命名以用大驼峰式书写格式：日期-名称。**
  - 如：20170113-SeekingWisdom
+
+## 我的读书卡片已移至 <a href="https://kp.duxiehao.com" target="_blank">https://kp.duxiehao.com</a>，谢谢大家关注！
