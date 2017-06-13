@@ -18,4 +18,4 @@
  2017-06-13 更新：
  >为了减小写卡片负担，决定不再遵循以上命名法，而是直接汉语拼音命名，比如任意卡，直接前置 RenYi-XXX。
 
-具体见本仓库 <a href="/weihaisheng/ReadingCard/issues">Issues</a> .
+** 更直观读书卡片见本仓库 <a href="https://github.com/weihaisheng/ReadingCard/issues">Issues</a> .**
