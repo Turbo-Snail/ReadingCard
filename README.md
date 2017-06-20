@@ -1,21 +1,18 @@
-## README
+##简介
 
-**读书卡片命名方式：c类型-名称；用小驼峰式命名原则，重复大写字母只写一个。**
- - 术语卡（Terms）：cT
- - 人名卡（People）：cP
- - 反常识卡（New knowledge）：cN
- - 技巧卡（Skills）：cS
- - 行动卡（Actions）：cA
- - 金句卡（Referenced）：cR
- - 任意卡（Others）：cO
- - 书评（BookReview）：cB
+[http://sync.sh](http://sync.sh)的源碼，使用[http://ztpala.com/](http://ztpala.com/)的模版，用[Jekyll](https://github.com/mojombo/jekyll)，[Bootstrap](http://twitter.github.com/bootstrap/)和[GitHub Pages](http://pages.github.com/)搭建
 
-**文件夹（书名）命名以用大驼峰式书写格式：日期-名称。**
- - 如：20170113-SeekingWisdom
- 
- ---
- 
- 2017-06-13 更新：
- >为了减小写卡片负担，决定不再遵循以上命名法，而是直接汉语拼音命名，比如任意卡，直接前置 RenYi-XXX。
+设计了三种发布的形式：
 
-**更直观读书卡片见本仓库 <a href="https://github.com/weihaisheng/ReadingCard/issues">Issues</a> .**
+- post: 发布文章，带duoshuo评论框和数学公式显示插件Mathjax
+- nomath: 发布文章，带duoshuo评论框
+- page: 只有文章
+
+## 访问
+
+- http://bjt.name
+- sunbjt.github.io
+
+##版权
+
+[署名-非商业性使用-相同方式共享 3.0 中国大陆](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)。
