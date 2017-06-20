@@ -1,11 +1,11 @@
 markdown: kramdown 
 permalink: /:year/:month/:title 
-title: 刘思喆@贝吉塔行星
-url: http://bjt.name
-subscribe: http://bjt.name/feed
+title: 读书卡片
+url: https://www.weihaisheng.com
+subscribe: http://kapian.weihaisheng.com/feed
 exclude: [ README.md, newpost.rb ]
-domain: www.bjt.name
+domain: kapian.weihaisheng.com
 author: bjt
-email: sunbjt@gmail.com
+email: admin@weihaisheng.com
 safe: true
 theme: jekyll-theme-cayman
