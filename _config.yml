@@ -8,3 +8,4 @@ domain: www.bjt.name
 author: bjt
 email: sunbjt@gmail.com
 safe: true
+theme: jekyll-theme-cayman
