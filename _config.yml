@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:year/:month/:title 
+permalink: /:title.html
 title: 打卡备忘录
 url: https://daka.weihaisheng.com/
 subscribe: https://daka.weihaisheng.com/feed
