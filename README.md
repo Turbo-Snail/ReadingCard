@@ -6,7 +6,7 @@
 
 这里是我读书打开的地方：https://daka.weihaisheng.com
 
-如果我的打卡感兴趣，欢迎订阅：http://tinyletter.com/
+如果我的打卡感兴趣，欢迎订阅：http://tinyletter.com/weihaisheng
 
 ## 访问
 
