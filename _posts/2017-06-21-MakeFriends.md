@@ -2,7 +2,7 @@
 layout: post
 title: 和「已逝的伟人」交朋友
 tags: 
-- maillist
+- 交朋友
 - 芒格
 status: publish
 type: post
