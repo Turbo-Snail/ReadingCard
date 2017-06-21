@@ -7,7 +7,7 @@ permalink: /about/
 
 这里是我读书打卡的地方：<https://daka.weihaisheng.com>
 
-如果你对我的打卡兴趣，欢迎订阅：<http://tinyletter.com/cnfeat>
+如果你对我的打卡兴趣，欢迎订阅：<http://tinyletter.com/weihaisheng>
 
 
 ## 访问
