@@ -12,9 +12,10 @@ permalink: /about/
 ### **从卡片到文件到作品的过程：**
 
 - **第一步：撰写读书卡片**
-  - 读书卡片写法参考[这里][1]，用为知笔记和网站归类整理，不求面面俱到，只求原始资料积累。
+  - 读书卡片写法参考[这里][1]，用为知笔记、网站和 GitHub Issues 归类整理，不求面面俱到，只求原始资料积累。
      - 为知笔记：私有，方便复盘
      - 读书卡片：<https://kapian.org.cn>
+     - GitHub Issues: <https://github.com/weihaisheng/ReadingCard/issues>
 - **第二步：卡片拼接成文章**
   - 选取某一张卡片扩展为打开内容，约 300 字，每日一贴，张贴在[打卡备忘录][2]上。
      - 打卡：<https://daka.weihaisheng.com>
