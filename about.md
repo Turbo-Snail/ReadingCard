@@ -5,17 +5,16 @@ permalink: /about/
 ---
 
 
-这里是我学习卡片创作的第八大洲：<http://www.mesule.com>
+这里是我读书打卡的地方：<https://daka.weihaisheng.com>
 
-如果你对卡片创作感兴趣，欢迎订阅卡片创作通讯，订阅地址：<http://tinyletter.com/cnfeat>
-
-![](http://openmindclub.qiniudn.com/cnfeat/image/MesuleSub2.jpg?imageMogr2/thumbnail/500x)
+如果你对我的打卡兴趣，欢迎订阅：<http://tinyletter.com/cnfeat>
 
 
 ## 访问
 
-- http://mesule.com 通讯备份
-- http://cnfeat.com 博客
+- https://daka.weihaisheng.com 打卡备份
+- https://www.weihaisheng.com 博客
+- https://www.weihaisheng.com/Resume/ 个人简历
 
 
 
