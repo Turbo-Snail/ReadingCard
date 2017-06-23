@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 「韩潮苏海」说文章
+title: 韩潮苏海说文章
 tags: 
 - 韩愈
 - 苏轼
