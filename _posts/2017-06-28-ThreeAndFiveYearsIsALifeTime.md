@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 三年五年就可以是一生一世
+title: 三年五年就是一生一世
 tags: 
 - 时间
 - 张爱玲
