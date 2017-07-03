@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 延迟怀疑
+title: 什么是延迟怀疑？
 tags: 
 - 艾柯
 - 小说
