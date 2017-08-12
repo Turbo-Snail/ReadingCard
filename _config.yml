@@ -10,3 +10,5 @@ email: admin@weihaisheng.com
 twitterID: weihaisheng
 disqusShortname: weihaisheng
 safe: true
+
+theme: jekyll-theme-midnight
