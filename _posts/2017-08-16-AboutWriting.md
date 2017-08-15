@@ -1,14 +1,13 @@
 ---
-
 layout: post
 title: 写作最大的奖赏是写作本身
 tags: 
-- 写作
+- 游记
 status: publish
 type: post
 published: true
-
 ---
+
 
 培根说过：writing makes an exact man! 当写完《关于写作：一只鸟接着一只鸟》的读书笔记，对这句话有了更深的理解。
 
