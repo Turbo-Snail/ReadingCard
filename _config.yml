@@ -1,10 +1,10 @@
 markdown: kramdown
 permalink: /:title.html
-title: 打卡备忘录
-url: https://daka.weihaisheng.com/
-subscribe: https://daka.weihaisheng.com/feed
+title: 每日读写记
+url: https://www.duxieji.com/
+subscribe: https://www.duxieji.com/feed
 exclude: [ README.md, newpost.rb ]
-domain: https://daka.weihaisheng.com/
+domain: https://www.duxieji.com/
 author: weihaisheng
 email: admin@weihaisheng.com
 twitterID: weihaisheng
