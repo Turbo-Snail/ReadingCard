@@ -107,9 +107,10 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 h1 {
     line-height: 60px;
-    color:	#000000;
+    color: #000000;
     font-size: 21px;
     font-weight: bold;
+    margin-bottom:10px;
 }
 h1 small {
     font-size: 20px;;
@@ -358,6 +359,7 @@ text-shadow: 0 1px 0 #fff;
     -moz-border-radius: 3px;
     border-radius: 3px;
     margin-left: 1mm;
+    margin-top:10px;
 }
 .label-important {
     background-color: #b94a48;
