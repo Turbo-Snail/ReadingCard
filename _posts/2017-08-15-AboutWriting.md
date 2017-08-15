@@ -2,7 +2,7 @@
 layout: post
 title: 写作最大的奖赏是写作本身
 tags: 
-- 游记
+- 写作
 status: publish
 type: post
 published: true
