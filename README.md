@@ -1,16 +1,11 @@
 ## 简介
 
-本站使用陈素封的 [http://www.mesule.com](http://www.mesule.com) 模板搭建。
-
-## 说明
-
-这里是我读书打开的地方：https://daka.weihaisheng.com
-
-如果我的打卡感兴趣，欢迎订阅：http://tinyletter.com/weihaisheng
+- 这里是我读书打卡的地方：https://www.duxieji.com/
+- 本站使用陈素封的 [http://www.mesule.com](http://www.mesule.com) 模板搭建。
 
 ## 访问
 
-- https://daka.weihaisheng.com 打卡
+- https://www.duxieji.com/ 每日读写记
 - https://www.weihaisheng.com  博客
 
 ## 版权
