@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 写作最大的奖赏是写作本身
+title: 写作本身就是最大的奖赏
 tags: 
 - 写作
 status: publish
