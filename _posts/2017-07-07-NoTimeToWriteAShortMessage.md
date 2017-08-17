@@ -2,7 +2,7 @@
 layout: post
 title: 没时间写一封短信
 tags: 
-- 故事
+- 写作
 status: publish
 type: post
 published: true
