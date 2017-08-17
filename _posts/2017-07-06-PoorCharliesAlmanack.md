@@ -2,7 +2,7 @@
 layout: post
 title: 多读《穷查理宝典》
 tags: 
-- 芒格
+- 思考
 status: publish
 type: post
 published: true
