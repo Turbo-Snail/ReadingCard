@@ -2,7 +2,7 @@
 layout: post
 title: 司机知识
 tags: 
-- 芒格
+- 思考
 status: publish
 type: post
 published: true
