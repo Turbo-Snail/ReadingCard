@@ -2,7 +2,7 @@
 layout: post
 title: 无知之幕的作用
 tags: 
-- 公平公正
+- 思考
 status: publish
 type: post
 published: true
