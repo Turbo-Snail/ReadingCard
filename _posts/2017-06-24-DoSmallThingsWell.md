@@ -2,8 +2,7 @@
 layout: post
 title: 关键是把手头的事情做好
 tags: 
-- 芒格
-- 专注
+- 读书
 status: publish
 type: post
 published: true
