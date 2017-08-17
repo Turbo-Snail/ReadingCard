@@ -1,8 +1,8 @@
 --- 
 layout: post
-title: 谨慎地选择我的生活
+title: 谨慎地选择生活
 tags: 
-- 米兰·昆德拉
+- 思考
 status: publish
 type: post
 published: true
