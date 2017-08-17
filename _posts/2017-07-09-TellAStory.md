@@ -2,7 +2,7 @@
 layout: post
 title: 如果连故事也讲不好
 tags: 
-- 故事
+- 思考
 status: publish
 type: post
 published: true
