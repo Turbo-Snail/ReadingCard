@@ -3,8 +3,7 @@
 layout: post
 title: 三年五年就是一生一世
 tags: 
-- 时间
-- 张爱玲
+- 思考
 status: publish
 type: post
 published: true
