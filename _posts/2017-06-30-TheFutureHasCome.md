@@ -2,8 +2,7 @@
 layout: post
 title: 未来已经来临
 tags: 
-- 未来
-- 时间
+- 思考
 status: publish
 type: post
 published: true
