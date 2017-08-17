@@ -2,7 +2,7 @@
 layout: post
 title: 让自己远离阿兹海默症
 tags: 
-- 老年痴呆
+- 思考
 status: publish
 type: post
 published: true
