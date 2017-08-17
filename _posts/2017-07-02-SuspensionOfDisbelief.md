@@ -2,8 +2,7 @@
 layout: post
 title: 什么是延迟怀疑？
 tags: 
-- 艾柯
-- 小说
+- 写作
 status: publish
 type: post
 published: true
