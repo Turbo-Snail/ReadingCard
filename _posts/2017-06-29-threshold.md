@@ -2,8 +2,7 @@
 layout: post
 title: 阈值自控意识
 tags: 
-- 阈值
-- 自控
+- 思考
 status: publish
 type: post
 published: true
