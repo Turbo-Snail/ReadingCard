@@ -3,7 +3,7 @@
 layout: post
 title: 耐心是最大的美德
 tags: 
-- 耐心
+- 思考
 status: publish
 type: post
 published: true
