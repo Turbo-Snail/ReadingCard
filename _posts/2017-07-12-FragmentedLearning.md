@@ -2,7 +2,7 @@
 layout: post
 title: 终身碎片跨界学习
 tags: 
-- 学习
+- 思考
 status: publish
 type: post
 published: true
