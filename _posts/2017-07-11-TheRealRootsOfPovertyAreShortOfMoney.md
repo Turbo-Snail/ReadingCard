@@ -2,7 +2,7 @@
 layout: post
 title: 贫穷的根源是缺钱
 tags: 
-- 贫穷
+- 思考
 status: publish
 type: post
 published: true
