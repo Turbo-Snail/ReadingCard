@@ -3,7 +3,7 @@
 layout: post
 title: 好看的游记越来越少
 tags: 
-- 游记
+- 思考
 status: publish
 type: post
 published: true
