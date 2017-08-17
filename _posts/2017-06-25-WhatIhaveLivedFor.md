@@ -1,9 +1,8 @@
 --- 
 layout: post
-title: 要有一段被悉心度过的生活
+title: 一段被悉心度过的生活
 tags: 
-- 芒格
-- 西塞罗
+- 思考
 status: publish
 type: post
 published: true
