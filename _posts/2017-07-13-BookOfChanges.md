@@ -2,7 +2,7 @@
 layout: post
 title: 从头开始学习《易经》
 tags: 
-- 易经
+- 读书
 status: publish
 type: post
 published: true
