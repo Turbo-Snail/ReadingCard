@@ -2,8 +2,8 @@
 layout: post
 title: 最有价值的东西
 tags: 
-- 教育
-- 价值
+- 读书
+- 思考
 status: publish
 type: post
 published: true
