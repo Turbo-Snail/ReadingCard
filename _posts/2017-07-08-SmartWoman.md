@@ -2,7 +2,7 @@
 layout: post
 title: 聪明的女人
 tags: 
-- 聪明
+- 思考
 status: publish
 type: post
 published: true
