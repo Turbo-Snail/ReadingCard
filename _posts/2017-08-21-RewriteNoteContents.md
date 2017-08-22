@@ -2,7 +2,7 @@
 layout: post
 title: 重写笔记内容
 tags: 
-- 读书
+- 思考
 status: publish
 type: post
 published: true
