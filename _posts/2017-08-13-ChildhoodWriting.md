@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 童年一辈子的写作题材
+title: 童年是一辈子的写作题材
 tags: 
 - 写作
 status: publish
