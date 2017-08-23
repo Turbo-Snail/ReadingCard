@@ -2,7 +2,7 @@
 layout: post
 title: 应用之作、习作和创作
 tags: 
-- 读书
+- 写作
 status: publish
 type: post
 published: true
