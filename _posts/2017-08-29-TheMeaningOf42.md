@@ -19,6 +19,6 @@ published: true
 
 不过原书的作者解释说：
 
-The answer to this is very simple. It was a joke. It had to be a number, an ordinary, smallish number, and I chose that one. Binary representations, base thirteen, Tibetan monks are all complete nonsense. I sat at my desk, stared into the garden and thought '42 will do'. I typed it out. End of story.
+>The answer to this is very simple. It was a joke. It had to be a number, an ordinary, smallish number, and I chose that one. Binary representations, base thirteen, Tibetan monks are all complete nonsense. I sat at my desk, stared into the garden and thought '42 will do'. I typed it out. End of story.
 
 总之 42 这个数字就是一个笑话。不过对于像我等闲来无事愿意从各种角度来解读42，也算是一种看书之外的乐趣。也许一切问题都没有任何终极答案，就如「生命有什么意义」一样，我们无法找出更好地答案，只知道要好好吃饭，好好睡觉，好好生活而已。
