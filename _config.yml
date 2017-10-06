@@ -1,14 +1,14 @@
 markdown: kramdown
 permalink: /:title.html
-title: 每日读写记
-url: https://www.duxieji.com/
-subscribe: https://www.duxieji.com/feed
+title: 方寸之地
+tagline:点滴汇小流，方寸见天地
+url: https://www.fangcunzhidi.com/
+subscribe: https://www.fangcunzhidi.com/feed
 exclude: [ README.md, newpost.rb ]
-domain: https://www.duxieji.com/
-author: weihaisheng
-email: admin@weihaisheng.com
-twitterID: weihaisheng
-disqusShortname: weihaisheng
+domain: https://www.fangcunzhidi.com/
+author: 立言力行
+email: tier_523@163.com
+disqusShortname: louisChen
 safe: true
 
 theme: jekyll-theme-midnight
