@@ -1,7 +1,6 @@
 markdown: kramdown
 permalink: /:title.html
 title: 方寸之地
-tagline: 点滴汇小流，方寸见天地
 url: https://www.fangcunzhidi.com/
 subscribe: https://www.fangcunzhidi.com/feed
 exclude: [ README.md, newpost.rb ]
