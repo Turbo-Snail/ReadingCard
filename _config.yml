@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:title.html
-title: 方寸之地
+title:
 url: https://www.fangcunzhidi.com/
 subscribe: https://www.fangcunzhidi.com/feed
 exclude: [ README.md, newpost.rb ]
